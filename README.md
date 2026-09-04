@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=4&section=header" width="100%" />
+  <!-- AI Neural Network Animation GIF -->
+  <img src="https://raw.githubusercontent.com/ashki23/ashki23/main/assets/ai-brain.gif" width="160px" alt="AI Animation" />
   <br />
 
   <a href="https://github.com/nvtanphat">
