@@ -1,33 +1,35 @@
 <div align="center">
 
-  <!-- Top Ambient AI Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C3AED&height=100&section=header" width="100%" />
-
-  <br />
-
-  <!-- AI Cyberpunk Coding Animation GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220px" alt="AI Cyber Animation" />
-  <br />
-
+  <!-- Minimalist Dynamic Typing Header -->
   <a href="https://github.com/nvtanphat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=40&lines=Hi%2C+I'm+Nguy%E1%BB%85n+V%C4%83n+T%E1%BA%A5n+Ph%C3%A1t;NLP+%2F+AI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hi%2C+I'm+Nguy%E1%BB%85n+V%C4%83n+T%E1%BA%A5n+Ph%C3%A1t;NLP+%2F+AI+Systems+Engineer;Multimodal+RAG+%26+LLM+Agents" alt="Typing SVG" />
   </a>
 
-  <p>Building production-oriented <b>NLP, Multimodal RAG</b>, and <b>LLM Agent</b> systems.</p>
+  <p><b>NLP & AI Systems Engineer</b> • Focused on <i>Multimodal RAG</i>, <i>Vietnamese NLP</i> & <i>Agentic Workflows</i></p>
 
-  <!-- Clean AI Tech Icons -->
+  <!-- Professional AI Stack Badges -->
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,mongodb,cpp,git&perline=8" />
-    </a>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Qdrant-%23DC2626.svg?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+    <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+    <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   </p>
 
+  <!-- Social Links -->
   <p>
-    <a href="https://linkedin.com/in/nvtanphat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:nvtanphat69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://linkedin.com/in/nvtanphat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:nvtanphat69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
 
-  <!-- Bottom Ambient AI Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F5FF&height=100&section=footer" width="100%" />
+  <br />
+
+  <!-- GitHub ML Stats & Language Distribution -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=nvtanphat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvtanphat&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,tex" height="150" alt="Top Languages" />
+  </p>
 
 </div>
