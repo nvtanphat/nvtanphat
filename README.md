@@ -15,6 +15,18 @@
     <a href="mailto:nvtanphat69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 </div>
+
+---
+
+### ⚡ Tech Stack & AI Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,mongodb,cpp,git&perline=8" />
+  </a>
+</p>
+
+- 🧠 **GenAI & Agents**: Multimodal RAG, GraphRAG, LangGraph, CRAG, NLI Guardrails
+- ⚡ **Deep Learning & NLP**: PyTorch, Vision Transformers (ViT), PhoBERT, ViT5, ONNX INT8 Quantization
+- 🛠️ **Backend & DBs**: FastAPI, Qdrant, Neo4j, PostgreSQL, MongoDB, Docker
