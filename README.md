@@ -7,11 +7,17 @@
 
   <p><b>AI Engineer</b> • Focused on <i>RAG</i>, <i>Vietnamese NLP</i> & <i>Agentic Workflows</i></p>
 
-  <!-- Clean AI Skill Icons Grid (Single Non-Duplicate Row) -->
+  <!-- Clean AI Skill Icons Grid -->
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,mongodb,cpp,git&perline=8" />
     </a>
+  </p>
+
+  <!-- Vector DB & Graph DB Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/VectorDB-Qdrant-%23DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant Vector DB" />
+    <img src="https://img.shields.io/badge/GraphDB-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j Graph DB" />
   </p>
 
   <!-- Social Links -->
