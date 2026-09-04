@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Top Ambient AI Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C3AED&height=100&section=header" width="100%" />
+
+  <br />
+
   <!-- AI Cyberpunk Coding Animation GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220px" alt="AI Cyber Animation" />
   <br />
@@ -21,5 +26,8 @@
     <a href="https://linkedin.com/in/nvtanphat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:nvtanphat69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
+
+  <!-- Bottom Ambient AI Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F5FF&height=100&section=footer" width="100%" />
 
 </div>
