@@ -5,10 +5,10 @@
   <br />
 
   <a href="https://github.com/nvtanphat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=40&lines=Hi%2C+I'm+Nguy%E1%BB%85n+V%C4%83n+T%E1%BA%A5n+Ph%C3%A1t;AI+%2F+ML+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=40&lines=Hi%2C+I'm+Nguy%E1%BB%85n+V%C4%83n+T%E1%BA%A5n+Ph%C3%A1t;NLP+%2F+AI+Engineer" alt="Typing SVG" />
   </a>
 
-  <p>Building production-oriented <b>LLMs, Multimodal RAG</b>, and <b>Autonomous AI Agents</b>.</p>
+  <p>Building production-oriented <b>NLP, Multimodal RAG</b>, and <b>LLM Agent</b> systems.</p>
 
   <!-- Clean AI Tech Icons -->
   <p>
