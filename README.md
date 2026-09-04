@@ -7,17 +7,18 @@
 
   <p><b>AI Engineer</b> • Focused on <i>RAG</i>, <i>Vietnamese NLP</i> & <i>Agentic Workflows</i></p>
 
-  <!-- Clean AI Skill Icons Grid -->
+  <!-- 100% Uniform AI Tech Stack Badges (flat-square style) -->
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,mongodb,cpp,git&perline=8" />
-    </a>
-  </p>
-
-  <!-- Vector DB & Graph DB Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/VectorDB-Qdrant-%23DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant Vector DB" />
-    <img src="https://img.shields.io/badge/GraphDB-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j Graph DB" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Qdrant-Vector_DB-DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+    <img src="https://img.shields.io/badge/Neo4j-Graph_DB-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   </p>
 
   <!-- Social Links -->
