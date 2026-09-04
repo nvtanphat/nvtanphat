@@ -2,10 +2,10 @@
 
   <!-- Minimalist Dynamic Typing Header -->
   <a href="https://github.com/nvtanphat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hi%2C+I'm+Nguy%E1%BB%85n+V%C4%83n+T%E1%BA%A5n+Ph%C3%A1t;NLP+%2F+AI+Systems+Engineer;Multimodal+RAG+%26+LLM+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Nguy%E1%BB%85n+V%C4%83n+T%E1%BA%A5n+Ph%C3%A1t;AI+Engineer" alt="Typing SVG" />
   </a>
 
-  <p><b>NLP & AI Systems Engineer</b> • Focused on <i>Multimodal RAG</i>, <i>Vietnamese NLP</i> & <i>Agentic Workflows</i></p>
+  <p><b>AI Engineer</b> • Focused on <i>Multimodal RAG</i>, <i>Vietnamese NLP</i> & <i>Agentic Workflows</i></p>
 
   <!-- Professional AI Stack Badges -->
   <p>
