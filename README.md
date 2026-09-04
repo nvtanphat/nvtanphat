@@ -7,18 +7,7 @@
 
   <p><b>AI Engineer</b> • Focused on <i>RAG</i>, <i>Vietnamese NLP</i> & <i>Agentic Workflows</i></p>
 
-  <!-- Professional AI Stack Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Qdrant-%23DC2626.svg?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
-    <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-    <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  </p>
-
-  <!-- AI Skill Icons Grid -->
+  <!-- Clean AI Skill Icons Grid (Single Non-Duplicate Row) -->
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,mongodb,cpp,git&perline=8" />
