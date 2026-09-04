@@ -1,9 +1,5 @@
 <div align="center">
 
-  <p align="right">
-    <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI" />
-  </p>
-
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/nvtanphat">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Nguy%E1%BB%85n+V%C4%83n+T%E1%BA%A5n+Ph%C3%A1t;AI+Engineer" alt="Typing SVG" />
