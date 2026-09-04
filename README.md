@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- AI Neural Network Animation GIF -->
-  <img src="https://raw.githubusercontent.com/ashki23/ashki23/main/assets/ai-brain.gif" width="160px" alt="AI Animation" />
+  <!-- AI Cyberpunk Coding Animation GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220px" alt="AI Cyber Animation" />
   <br />
 
   <a href="https://github.com/nvtanphat">
